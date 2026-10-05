@@ -1,6 +1,6 @@
 # Hi, I'm Alan 
 
-> _Software Engineer in Training | Full-Stack Developer | C# .NET & React_
+> _Software Engineer student | Full-Stack Developer | C# .NET & React_
 
 ---
 
